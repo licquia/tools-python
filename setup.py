@@ -34,7 +34,6 @@ setup(
         'pyparsing<=1.5.7;python_version<="2.8"',
         'rdflib',
         'six',
-        'enum34',
         'Click',
         'pyyaml',
         'xmltodict',
